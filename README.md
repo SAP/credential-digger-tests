@@ -4,3 +4,5 @@
 This is a mock repository used in tests for the package [Credential Digger](https://github.com/SAP/credential-digger) by [SAP](https://github.com/SAP). 
 
 All credentials in this repository are NOT real credentials.
+
+This project is not intended to be run, but only to be scanned with the software Credential Digger for test purposes. All information about the tests, how to use them, contribution guidelines and related content can be found on the [main repository](https://github.com/SAP/credential-digger).
