@@ -3,3 +3,5 @@ if __name__ == "__main__":
           detected by the scanner and identified as a false positive")
     print("Another password")
     password = "adfu315os1"
+    
+    itsnotapassword = c.setPassword(password)
