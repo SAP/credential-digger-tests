@@ -1,0 +1,1 @@
+This is my new file. It will be used to test the scan_pr feature.
